@@ -1,6 +1,7 @@
 backend:
   name: git-github
   repo: howling-techie/decap-test
+  branch: main
 media_folder: public/img
 public_folder: img
 collections:
