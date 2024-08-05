@@ -2,6 +2,7 @@ backend:
   name: github
   repo: howling-techie/decap-test
   branch: main
+  base_url: https://sveltia-cms-auth.howling-techie.workers.dev/
 media_folder: public/img
 public_folder: img
 collections:
