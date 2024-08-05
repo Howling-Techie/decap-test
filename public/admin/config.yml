@@ -1,5 +1,5 @@
 backend:
-  name: git-github
+  name: github
   repo: howling-techie/decap-test
   branch: main
 media_folder: public/img

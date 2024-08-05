@@ -8,5 +8,8 @@ module.exports = {
             }
         )
         return cfg
-    }
+    },
+    output: "export",
+    basePath: "/decap-test",
+    reactStrictMode: true,
 }
